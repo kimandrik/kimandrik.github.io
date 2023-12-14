@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Andrey Kim
-title: 
+title: Human
 email: kimandr.kz@gmail.com
 website: www.github.com/kimandrik
 
@@ -16,12 +16,12 @@ darkmode: false
 
 # Social links
 github_username: kimandrik
-gitlab_username: kimandrik
+# gitlab_username: kimandrik
 # stackoverflow_username: "00000001"
 # dribbble_username: kimandrik
 # facebook_username: kimandrik
 # flickr_username: kimandrik
-instagram_username: jameswgrant
+# instagram_username: jameswgrant
 linkedin_username: kimandrik
 # xing_username: kimandrik
 # pinterest_username: kimandrik
@@ -64,7 +64,7 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           Thesis: On testing statistical hypotheses for a Brownian motion with changing drift term
-    content:
+    # content:
       - layout: left
         title: Seoul National University
         caption: 2014 - 2019
@@ -87,7 +87,7 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             develop mathematical and statistical methods for trading.
-    content:
+    # content:
       - layout: left
         title: Cryptolab
         # link: boringcompany.com
@@ -98,7 +98,7 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             develop Homomorphic Encryption Library HEAAN.
-    content:
+    # content:
       - layout: left
         title: New Jersey Institute of Technology
         # link: boringcompany.com
@@ -109,7 +109,7 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             contribute to Hmomorphic Encryption Library PALISADE.
-    content:
+    # content:
       - layout: left
         title: Samsung Advanced Institute of Technology
         # link: boringcompany.com
